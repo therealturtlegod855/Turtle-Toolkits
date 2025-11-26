@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+commit.sh
+push.sh
 
 # Compiled Object files
 *.slo
